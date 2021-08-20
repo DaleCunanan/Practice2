@@ -1,0 +1,62 @@
+body, html{
+    background-image: url("css/img/food3.jfif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.nav {
+    overflow: hidden;
+    font-size: 40px;
+    background-color: #ffe5d9;
+    opacity: 0.5;
+    border-bottom: solid black 8px;
+  }
+  
+  .nav a {
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  .nav a:hover {
+    background-color: #fec5bb;
+    color: black;
+  }
+
+  .intro {
+      position: relative; left: 600px;
+  }
+
+  
+  #text{
+      font-size: 40px;
+      text-shadow: black;
+      font-family: 'Lobster', cursive;
+  }
+   .images{
+    width:200px;
+    text-align:center;
+    display:block;
+    background-color: transparent;
+    border: 1px solid transparent;
+    margin-right: 10px;
+    margin-bottom: 1px;
+    float:right;
+    position: relative; left: 650px;
+  }
+  
+  #overall{
+    width:465px;
+  }
+  
+  img{
+    width: 200px;
+    height: 200px;
+  }
