@@ -10,7 +10,7 @@ body, html{
 
 .nav {
     overflow: hidden;
-    font-size: 40px;
+    font-size: 30px;
     background-color: #ffe5d9;
     opacity: 0.5;
     border-bottom: solid black 8px;
